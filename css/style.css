@@ -1,0 +1,42 @@
+.header{ background: #767171; width: 100%; line-height: 4.0rem; padding: 0.2rem 0px; font-size: 1.2rem; color: #FFFFFF;} 
+.header .icon-user-tie{ font-size: 2.6rem; display: block; float: left; }
+ .header .col-xs-4{ padding-top: 0.5rem; line-height: 2.6rem;font-size: 2.0rem;} 
+ 
+.type_areaoptions{ width: 92%; margin: auto; background: #f5f5f5; border-radius: 1rem; padding: 0.5rem 1%;}
+.type_areaoptions h2{ font-size: 1.2rem; font-weight: normal; padding: 0.2rem 0px;}
+.type_areaoptions h2 span{ color: #a2a1a1; font-size: 1.4rem;  margin-top: 0.2rem; display: block; float: left; margin-left: 0.3rem; display: inline;}
+.type_areaoptions ul{ margin-left: 1rem;}
+.type_areaoptions ul li{ float: left; margin: 0.2rem 0.5rem;}
+
+.activity_list_section{ background: #f5f5f5; padding: 1rem 0rem;}
+.activity_list_section header ul li{ float: right; margin: 0.5rem ; padding: 0.3rem 1rem; background: #a6a6a6; border-radius: 3rem;color: #FFFFFF;}
+
+.activity_one .col-xs-3 img{ width: 80%;  display: block; margin: auto; border-radius:0.5rem ;}
+.activity_one_box{border: #d9d9d9 solid 0.2rem; width: 94%;border-radius: 0.5rem; padding: 0.3rem 1%;}
+.activity_one_box h2{ height: 2.6rem; line-height: 2.6rem;font-size: 1.1rem; font-weight: normal; position: relative;}
+.activity_one_box h2 span{ position: absolute; right: 0px; background: #00b17d; display: block; padding:  0.2rem 0.4rem; height: 1.3rem; line-height: 1.3rem; top: 0.4rem;
+border-radius: 0.2rem ; color: #FFFFFF;font-size: 1.0rem;
+}
+.activity_one_box p{ line-height: 1.5rem;}
+.activity_one_box p .icon-fire{ color: #f1ac44;}
+.activity_one_tool{ position: relative;  line-height: 1.5rem;}
+.activity_one_tool ul li{ float: left;  margin: 0.3rem; font-size: 1.1rem;}
+.activity_one_tool .tool_icon{ position: absolute; right: 0.5rem; color: #b3b2b2;  font-size: 1.2rem;  padding-top: 0.3rem;}
+.activity_one_tool .tool_icon span{ margin: 0.3rem }
+
+
+
+.fixed_fb_list{display: none; overflow: hidden;	position: absolute; z-index: 100; top: 4.5rem; right: 1rem; width: 30%; background: #767171; text-align: center; border-radius: 0.5rem;
+ padding: 0.5rem 0rem;
+}
+.fixed_fb_list ul li{ text-align: center; line-height: 2.4rem;}
+.fixed_fb_list ul li a{ color: #FFFFFF;}
+
+
+
+
+
+
+
+
+
